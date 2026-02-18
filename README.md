@@ -6,7 +6,7 @@ AiSaas is a full-featured AI-powered SaaS web application built using the MERN s
 This platform provides multiple AI tools under a single subscription-based system including content generation, image processing, and resume analysis.
 
 ------------------------------------------------------------
-![Demo App](AiSaaS-Assest/clientside/assets/maxresdefault-16.jpg)
+![Demo App](clientside/assets/maxresdefault-16.jpg)
 ------------------------------------------------------------
 
 Perfect for:
